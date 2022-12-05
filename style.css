@@ -1,0 +1,29 @@
+* {
+    font-size: 20px;
+  } 
+  body 
+  {
+    background-color: gray;
+  }
+  section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+  }
+  table, th,td {
+    border: 1px solid black;
+  }
+  .table-1{
+   background-color: darkorange;
+  }
+  .table-2{
+    background-color: skyblue;
+   }
+   .table-3{
+    background-color: lightcoral;
+   }
+   .table-4{
+    background-color: lightyellow;
+   }
+
